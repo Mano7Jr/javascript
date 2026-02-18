@@ -5,4 +5,4 @@ function greetUser(name, callback) {
 function sayGoodbye() {
     console.log("Goodbye!");
 }
-greetUser("Alice", sayGoodbye);
+greetUser("Mano", sayGoodbye);
