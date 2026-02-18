@@ -7,4 +7,4 @@ function sayBye() {
   console.log("Goodbye!");
 }
 
-greet("Alice", sayBye);
+greet("Mano", sayBye);
