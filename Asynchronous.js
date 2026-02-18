@@ -7,4 +7,4 @@ function sayBye() {
     console.log("Goodbye!");
 }
 
-greetAsync("Alice", sayBye);
+greetAsync("Mano", sayBye);
